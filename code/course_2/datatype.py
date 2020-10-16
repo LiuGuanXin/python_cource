@@ -1,3 +1,4 @@
+
 a = '12.34'
 b = float(a)
 print(b)
@@ -8,7 +9,7 @@ d = int(c)
 print(d)
 print(type(d))
 
-e = '14'
+e = input()
 f = int(e)
 print(f)
 print(type(f))
