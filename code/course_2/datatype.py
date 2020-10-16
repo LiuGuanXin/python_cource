@@ -1,0 +1,14 @@
+a = '12.34'
+b = float(a)
+print(b)
+print(type(b))
+
+c = 56.78
+d = int(c)
+print(d)
+print(type(d))
+
+e = '14'
+f = int(e)
+print(f)
+print(type(f))
